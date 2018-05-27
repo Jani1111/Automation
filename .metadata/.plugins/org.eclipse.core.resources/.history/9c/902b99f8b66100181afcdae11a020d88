@@ -1,0 +1,43 @@
+package com.jani.testcases;
+import static com.jani.selenium.SeleniumWebDriver.Chromewebdriver;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import com.jani.selenium.SeleniumWebDriver;
+
+
+
+public class GmailTestCases {
+
+	 
+	public static void main(String[] args) {
+		 
+		 public static WebDriver driver;
+
+		 
+		 SeleniumWebDriver jani = new SeleniumWebDriver();
+		 
+		 
+		 String baseUrl = "http://demo.guru99.com/test/newtours/";
+	        String expectedTitle = "Welcome";
+	        String actualTitle = "";
+
+	        driver.get(baseUrl);
+
+	        // get the actual value of the title
+	        actualTitle = driver.getTitle();
+
+	        /*
+	         * compare the actual title of the page with the expected one and print
+	         * the result as "Passed" or "Failed"
+	         */
+	        if (actualTitle.contentEquals(expectedTitle)){
+	            System.out.println("Test Passed!");
+	        } else {
+	            System.out.println("Test Failed");
+	        }
+	       
+	        driver.close();
+		   
+	    }
+	 }

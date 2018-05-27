@@ -1,0 +1,67 @@
+24:Jan:2018 05:35:32 Resources path : C:\Users\ba.aravind\Desktop\Auto\automation\workplace\Config\src\test\Resources\CONFIG\
+24:Jan:2018 05:35:33 iteration   : 1 / 1
+24:Jan:2018 05:35:33 Test Case name: AUTHENTICATION-AUTHORISATION[LOGIN]
+24:Jan:2018 05:35:33 Start test case execution reporting..
+24:Jan:2018 05:35:33 Started executing the test case
+24:Jan:2018 05:35:43 End of the test case execution..
+24:Jan:2018 05:35:44 iteration   : 1 / 1
+24:Jan:2018 05:35:44 Test Case name: Create a new track type
+24:Jan:2018 05:35:44 Start test case execution reporting..
+24:Jan:2018 05:35:44 Started executing the test case
+24:Jan:2018 05:35:50 End of the test case execution..
+24:Jan:2018 05:35:50 iteration   : 1 / 1
+24:Jan:2018 05:35:50 Test Case name: Update an existing track type
+24:Jan:2018 05:35:50 Start test case execution reporting..
+24:Jan:2018 05:35:50 Started executing the test case
+24:Jan:2018 05:35:56 End of the test case execution..
+24:Jan:2018 05:35:56 iteration   : 1 / 1
+24:Jan:2018 05:35:56 Test Case name: User create a new track type group
+24:Jan:2018 05:35:56 Start test case execution reporting..
+24:Jan:2018 05:35:57 Started executing the test case
+24:Jan:2018 05:36:06 End of the test case execution..
+24:Jan:2018 05:36:06 iteration   : 1 / 1
+24:Jan:2018 05:36:06 Test Case name: User updates a track type group
+24:Jan:2018 05:36:06 Start test case execution reporting..
+24:Jan:2018 05:36:06 Started executing the test case
+24:Jan:2018 05:36:15 End of the test case execution..
+24:Jan:2018 05:36:15 iteration   : 1 / 1
+24:Jan:2018 05:36:15 Test Case name: Create a new profile
+24:Jan:2018 05:36:15 Start test case execution reporting..
+24:Jan:2018 05:36:15 Started executing the test case
+24:Jan:2018 05:36:25 End of the test case execution..
+24:Jan:2018 05:36:25 iteration   : 1 / 1
+24:Jan:2018 05:36:25 Test Case name: User updates an existing profile
+24:Jan:2018 05:36:25 Start test case execution reporting..
+24:Jan:2018 05:36:25 Started executing the test case
+24:Jan:2018 05:36:34 End of the test case execution..
+24:Jan:2018 05:36:34 iteration   : 1 / 1
+24:Jan:2018 05:36:34 Test Case name: User deletes an existing profile
+24:Jan:2018 05:36:34 Start test case execution reporting..
+24:Jan:2018 05:36:34 Started executing the test case
+24:Jan:2018 05:36:46 End of the test case execution..
+24:Jan:2018 05:36:46 iteration   : 1 / 1
+24:Jan:2018 05:36:46 Test Case name: User deletes a track type
+24:Jan:2018 05:36:46 Start test case execution reporting..
+24:Jan:2018 05:36:46 Started executing the test case
+24:Jan:2018 05:36:57 End of the test case execution..
+24:Jan:2018 05:36:57 iteration   : 1 / 1
+24:Jan:2018 05:36:57 Test Case name: User deletes a track type group
+24:Jan:2018 05:36:57 Start test case execution reporting..
+24:Jan:2018 05:36:57 Started executing the test case
+24:Jan:2018 05:37:09 End of the test case execution..
+24:Jan:2018 05:37:09 iteration   : 1 / 1
+24:Jan:2018 05:37:09 Test Case name: User create a new track type category
+24:Jan:2018 05:37:09 Start test case execution reporting..
+24:Jan:2018 05:37:09 Started executing the test case
+24:Jan:2018 05:37:18 End of the test case execution..
+24:Jan:2018 05:37:18 iteration   : 1 / 1
+24:Jan:2018 05:37:18 Test Case name: User clones an existing Track type category
+24:Jan:2018 05:37:18 Start test case execution reporting..
+24:Jan:2018 05:37:18 Started executing the test case
+24:Jan:2018 05:37:27 End of the test case execution..
+24:Jan:2018 05:37:28 iteration   : 1 / 1
+24:Jan:2018 05:37:28 Test Case name: User deletes an existing Track type category
+24:Jan:2018 05:37:28 Start test case execution reporting..
+24:Jan:2018 05:37:28 Started executing the test case
+24:Jan:2018 05:37:41 End of the test case execution..
+24:Jan:2018 05:37:41 End of the test suite execution..

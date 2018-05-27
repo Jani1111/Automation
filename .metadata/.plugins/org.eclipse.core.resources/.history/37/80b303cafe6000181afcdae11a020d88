@@ -1,0 +1,5 @@
+package com.jani.framework;
+
+public class ReadPropertiesFile {
+
+}

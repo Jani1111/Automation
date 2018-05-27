@@ -1,0 +1,9 @@
+BorwserName=EDGE
+Excel_Report=YES
+ALM_Upload = NO
+BASE_DIR=C:\\Users\\ba.aravind\\Desktop\\Auto\\automation\\workplace\\Config\\
+OBJ_REPO_FILE =ObjRepo_Segments_8.xls
+TEST_FILE =TS_Segments_8.xls
+BASE_URL=http://10.97.202.5/config/
+PROJECT_NAME=MED-8
+PROJECT_FOLDER=CONFIG
